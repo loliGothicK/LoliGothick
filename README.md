@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a language lawyer in C++ and Rust.
 
 ## About Me
 
-- 🔭 I’m currently working on interesting projects that leverage the power of Scala.
 - 📫 How to reach me: [Email](mailto:loligothick@gmail.com)
 - ⚡ Fun fact: I love incorporating elegant and efficient designs into my projects.
 
